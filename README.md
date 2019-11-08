@@ -31,3 +31,17 @@ DFD диаграмма
 Диграмма прецендентов
 
 ![none](https://github.com/AnnKons/stankin/blob/master/215.jpg)
+
+## Лабораторная 3
+
+DFD
+
+![none](https://github.com/AnnKons/stankin/blob/master/213.jpg)
+
+Диаграмма последовательностей
+
+![none](https://github.com/AnnKons/stankin/blob/master/301.png)
+
+ ERD
+ 
+ ![none](https://github.com/AnnKons/stankin/blob/master/302.png)
